@@ -59,7 +59,7 @@ We used the **Gapminder Dataset** available from Plotly's built-in datasets.
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/RokiyaAbdElsatar/Gapminder-Data-Visualization.git
 ```
 
 2. Install the required libraries:
